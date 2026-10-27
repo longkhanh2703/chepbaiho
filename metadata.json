@@ -1,0 +1,6 @@
+{
+  "name": "Chép Bài Hộ 24/7 - Dịch Vụ Viết Tay Học Sinh & Sinh Viên",
+  "description": "Dịch vụ chép bài hộ học sinh sinh viên uy tín, chữ đẹp, nhận chép đề cương, bài tập, vở ghi theo nét chữ riêng, giao bài đúng hạn toàn quốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
